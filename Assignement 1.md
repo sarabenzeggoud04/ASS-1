@@ -532,7 +532,7 @@ def intersection(l1,l2):
   return l3
 print(intersection(l1,l2))
 ```
-
+https://pythontutor.com/render.html#mode=display
 
 
 
