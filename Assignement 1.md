@@ -504,6 +504,11 @@ Bien entendu, pour pouvoir utiliser `zip()`, il faut que les listes soient de mÃ
 
 
 
+
+
+
+
+
 ## Liste des exercices de ce chapitre
 
 1. [Argmax](ex4.1)
